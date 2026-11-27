@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:090909,100:b91c1c&height=220&section=header&text=WOLF%20SYSTEM&fontSize=50&fontColor=ffffff&desc=DIAGNOSTIC%20PRO%20V3.0&descAlignY=65&animation=fadeIn)
+![Wolf System Diagnostic PRO](wolf-banner.png)
 
 <div align="center">
 
@@ -8,7 +8,13 @@
 ![Status](https://img.shields.io/badge/Status-Funcional-15803d?style=for-the-badge)
 
 </div>
+## Interface do aplicativo
 
+![Wolf System Diagnostic V3.0](wolf-dashboard.PNG)
+
+*Captura real do aplicativo em execução no Windows 10.*
+
+---
 ## Sobre o projeto
 
 O Wolf System Diagnostic PRO é um aplicativo
